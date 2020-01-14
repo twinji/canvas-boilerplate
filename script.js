@@ -1,3 +1,7 @@
+// window dimensions
+const WIDTH = window.innerWidth, 
+      HEIGHT = window.innerHeight;
+
 window.onload = function(e) {
 
     // canvas setup
